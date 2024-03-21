@@ -61,7 +61,5 @@ var config = {
 ## 知乎使用教程
 [https://zhuanlan.zhihu.com/p/85899661](https://zhuanlan.zhihu.com/p/85899661)
 
-## QA
-> 如何修改音乐？
-> 
-> 回答：将你自己的mp3音乐文件覆盖`assets`目录下面的`hbd.mp3`, 記住覆蓋后名字要完全一樣哦！
+## Forked from 
+[GitHub - AJLoveChina/birthday: :cake:改改数据,为心爱的人做一个超具创意的网页生日祝福吧~ (生日快乐) https://ajlovechina.github.io/birthday/](https://github.com/AJLoveChina/birthday)
