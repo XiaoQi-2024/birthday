@@ -17,7 +17,7 @@ var config = {
 		"最重要的",
 		"每天都开心的吖哈哈哈",
 		"best wishes!",
-        "YAMI~~",
+        "YAMI~~by kun",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
